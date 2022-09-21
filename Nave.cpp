@@ -2,7 +2,18 @@
 #include<conio.h>
 using namespace std;
 
+
+class Nave{
+private:
+
+public:
+
+
+};
+
+
+
 int main(){
-    cout<<"hola bbcito";
+
 return 0;
 }
